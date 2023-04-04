@@ -106,3 +106,27 @@ button {
     flex-wrap: wrap;
     max-width: 160px;
 }
+
+.section3 {
+    background-color: #E5E7EB;
+    align-items: center;
+    padding: 100px;
+}
+
+
+.quote {
+    font-weight: 10;
+    font-size: 36px;
+    font-style: italic;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.author {
+    font-weight: bold;
+    text-align: right;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
